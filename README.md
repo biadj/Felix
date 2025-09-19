@@ -1,7 +1,7 @@
 # Projeto Gato Felix - Disciplina Informática para Negócios
 Professor: Bruno Zolotareff dos Santos
 
-Link web: https://biadj.github.io/Felix/
+Link web: 
 
 ## Grupo
 Beatriz Damaceno <br>
